@@ -2,4 +2,4 @@ Jestem specjalistą IT z ponad 30-letnim doświadczeniem zawodowym, w tym 2 lata
 
 30-letnie doświadczenie w IT umożliwia mi kompleksowe spojrzenie na rozwój technologii od administracji systemami po zaawansowaną analitykę danych i tworzenie rozwiązań opartych na sztucznej inteligencji. Skutecznie integruję swoje wieloletnie doświadczenie w IT z najnowszymi trendami technologicznymi.
 
-[Więcej...](https://robertbirek.github.io/aboutme/){target="_blank"}
+[Więcej...](https://robertbirek.github.io/aboutme/)
